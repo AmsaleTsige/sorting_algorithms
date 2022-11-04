@@ -1,1 +1,1 @@
- Sorting algorithms & Big O
+# Solution to tasks on Sorting algorithms
